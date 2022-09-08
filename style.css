@@ -1,0 +1,56 @@
+/* Crisp Chat */
+.crisp-client { 
+  display: none !important;
+}
+
+/* Hubspot */
+div#hubspot-messages-iframe-container { 
+  display: none !important;
+}
+
+/* Intercom */
+#intercom-container {
+  display: none !important;
+}
+
+#intercom-frame {
+  display: none !important;
+}
+
+.intercom-namespace {
+  display: none !important;
+}
+
+.intercom-lightweight-app {
+  display: none !important;
+}
+
+/* Tidio */
+#tidio-chat {
+  display: none !important;
+}
+
+/* LiveChat */
+#chat-widget-container {
+  display: none !important;
+}
+
+/* Gorgias */
+#gorgias-chat-container {
+  display: none !important;
+}
+
+/* LiveAgent */
+.circleChatButtonWrap {
+  display: none !important;
+}
+
+/* Zendesk */
+iframe#web-messenger-container {
+  display: none !important;
+}
+
+/* Olark */
+#hbl-live-chat-wrapper {
+  display: none !important;
+}
